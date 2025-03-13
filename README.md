@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </a>
   <img width="5" />
