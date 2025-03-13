@@ -1,9 +1,14 @@
+<br clear="both">
 
 <h2 align="left">Hi 👋! My name is Steven Gomez and I'm a Software Developer,<br>Nice to meet you!</h2>
 
 ###
 
 <h4 align="left">Tecnologies and Tools</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -46,6 +51,10 @@
 ###
 
 <h4 align="left">What I am currently learning / improving on</h4>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
