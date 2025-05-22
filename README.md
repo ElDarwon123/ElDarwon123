@@ -126,7 +126,7 @@
 
 ###
 
-<p align="left">💻 Backend Developer at BpoLabs!</p>
+<p align="left">💻 Backend Developer with Frontend Experience! 💻</p>
 
 ###
 
